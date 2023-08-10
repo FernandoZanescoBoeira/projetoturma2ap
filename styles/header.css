@@ -68,4 +68,16 @@
     .container__titulo--negrito{
         font-weight: 700;
     }
+    .opções{
+        display: flex;
+        align-items: center;
+    }
+    .opções__item{
+        text-transform: uppercase;
+        padding: 0 1em;
+    }
+    .opções__link{
+        text-decoration: none;
+        color:var(--preto)
+    }
 }
