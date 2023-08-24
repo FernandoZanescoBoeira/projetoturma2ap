@@ -47,3 +47,27 @@ body{
     flex-wrap: wrap;
     margin-left: px;
 }
+.div-conteudo-socio{
+    text-align: center;
+    display: inline-grid;
+
+}
+
+.nomes-socio{
+    text-align: left;
+}
+
+.foto-socio{
+    width: 230px;
+    height: 200px;
+    margin-left: 0px;
+    border: 2px solid;
+    border-radius: 3px;
+
+}
+
+.github-icon{
+    width: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
